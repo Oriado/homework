@@ -1,3 +1,4 @@
+#task №5
 def filter_words_by_length(words, min_length=3):
     
     filter = []
